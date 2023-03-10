@@ -4,3 +4,6 @@ Seattle
 Bali
 Home
 Sleeping Bear Dunes
+
+
+Feature 2
