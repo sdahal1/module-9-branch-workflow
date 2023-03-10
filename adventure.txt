@@ -2,8 +2,11 @@ San diego
 Amsterdam
 Seattle
 Bali
-Home
+Home is where the heart is.
 Sleeping Bear Dunes
 
 
 Feature 2
+
+
+New feature for adventures.
